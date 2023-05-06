@@ -1,5 +1,5 @@
 # The-Goks
 
-#mau cari apa?
+> mau cari apa?
 
-#gak ada apa-apanya ngentod
+> gak ada apa-apanya ngentod
